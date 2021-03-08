@@ -24,24 +24,14 @@
 
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
-<br />
-<br />
-
-
----
 
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 * Nothing yet
 
-
-
 <!-- BLOG-POST-LIST:END -->
 
----
-
-<img align="left" alt="Jonathan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jmcabreira&show_icons=true&hide_border=true" />
 
 [medium]: https://medium.com/@joaocarvoli
 [linkedin]: https://www.linkedin.com/in/joaocarvoli/
