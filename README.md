@@ -6,11 +6,11 @@
 
 ### Connect with me:
 
-[<img align="left"  width="22px" src="https://github.com/joaocarvoli/joaocarvoli/blob/main/logo/png-clipart-linkedin-computer-icons-logo-social-networking-service-facebook-miscellaneous-blue.png" />][linkedin]
+[<img align="left"  width="22px" src="https://github.com/joaocarvoli/joaocarvoli/blob/main/logo/linkedin-black-icon-logo-ECC426C572-seeklogo.com.png" />][linkedin]
 
 [<img align="left" alt="joaocarvoli | medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/medium.svg" />][medium]
 
-[<img align="left" alt="joaocarvoli | Instagram" width="22px" src="https://github.com/joaocarvoli/joaocarvoli/blob/main/logo/6-60785_instagram-icon-old-instagram-logo-png-transparent-png.jpeg" />][instagram]
+[<img align="left" alt="joaocarvoli | Instagram" width="22px" src="https://github.com/joaocarvoli/joaocarvoli/blob/main/logo/0-818_smbolo-do-instagram-png-transparent-png.png" />][instagram]
 
 [<img align="left" alt="jvcarvoli | Instagram" width="22px" src="https://github.com/joaocarvoli/joaocarvoli/blob/main/logo/Kaggle%20Icon.svg" />][kaggle]
 
@@ -27,6 +27,6 @@
 
 
 [medium]: https://medium.com/@joaocarvoli
-[linkedin]: https://github.com/joaocarvoli/joaocarvoli/blob/main/logo/png-clipart-linkedin-computer-icons-logo-social-networking-service-facebook-miscellaneous-blue.png
-[instagram]: https://github.com/joaocarvoli/joaocarvoli/blob/main/logo/6-60785_instagram-icon-old-instagram-logo-png-transparent-png.jpeg
-[kaggle]: https://github.com/joaocarvoli/joaocarvoli/blob/main/logo/Kaggle%20Icon.svg
+[linkedin]: https://www.linkedin.com/in/joaocarvoli/
+[instagram]: instagram.com/joaocarvoli/
+[kaggle]: https://www.kaggle.com/jvcarvoli
