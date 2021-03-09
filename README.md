@@ -6,13 +6,14 @@
 
 ### Connect with me:
 
-[<img align="left"  width="22px" src="https://github.com/joaocarvoli/joaocarvoli/blob/main/logo/linkedin-black-icon-logo-ECC426C572-seeklogo.com.png" />][linkedin]
+[<img align="left"  width="22px" src="https://github.com/joaocarvoli/joaocarvoli/blob/main/logo/linkedin-black-icon-logo-ECC426C572-seeklogo.com.png" />][https://www.linkedin.com/in/joaocarvoli/]
 
-[<img align="left" alt="joaocarvoli | medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/medium.svg" />][medium]
+[<img align="left" alt="jvcarvoli | Kaggle" width="22px" src="https://github.com/joaocarvoli/joaocarvoli/blob/main/logo/Kaggle%20Icon.svg" />][https://www.kaggle.com/jvcarvoli]
 
-[<img align="left" alt="joaocarvoli | Instagram" width="22px" src="https://github.com/joaocarvoli/joaocarvoli/blob/main/logo/0-818_smbolo-do-instagram-png-transparent-png.png" />][instagram]
+[<img align="left" alt="joaocarvoli | Instagram" width="22px" src="https://github.com/joaocarvoli/joaocarvoli/blob/main/logo/0-818_smbolo-do-instagram-png-transparent-png.png" />][instagram.com/joaocarvoli]
 
-[<img align="left" alt="jvcarvoli | Instagram" width="22px" src="https://github.com/joaocarvoli/joaocarvoli/blob/main/logo/Kaggle%20Icon.svg" />][kaggle]
+[<img align="left" alt="joaocarvoli | medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/medium.svg" />][https://medium.com/@joaocarvoli]
+
 
 
 <br />
@@ -24,9 +25,3 @@
 * Nothing yet
 
 <!-- BLOG-POST-LIST:END -->
-
-
-[medium]: https://medium.com/@joaocarvoli
-[linkedin]: https://www.linkedin.com/in/joaocarvoli/
-[instagram]: instagram.com/joaocarvoli/
-[kaggle]: https://www.kaggle.com/jvcarvoli
