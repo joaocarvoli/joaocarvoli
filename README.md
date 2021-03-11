@@ -18,13 +18,6 @@
 <br />
 <br />
 
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-* Nothing yet
-
-<!-- BLOG-POST-LIST:END -->
-
 [instagram]: https://www.instagram.com/joaocarvoli/
 [kaggle]: https://www.kaggle.com/jvcarvoli
 [linkedin]: https://www.linkedin.com/in/joaocarvoli/
