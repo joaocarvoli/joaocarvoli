@@ -12,7 +12,6 @@
 
 [<img align="left" alt="joaocarvoli | Instagram" width="22px" src="https://github.com/joaocarvoli/joaocarvoli/blob/main/logo/0-818_smbolo-do-instagram-png-transparent-png.png" />][instagram]
 
-[<img align="left" alt="joaocarvoli | medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/medium.svg" />][medium]
 
 
 
@@ -27,6 +26,5 @@
 <!-- BLOG-POST-LIST:END -->
 
 [instagram]: https://www.instagram.com/joaocarvoli/
-[medium]: https://medium.com/@joaocarvoli
 [kaggle]: https://www.kaggle.com/jvcarvoli
 [linkedin]: https://www.linkedin.com/in/joaocarvoli/
