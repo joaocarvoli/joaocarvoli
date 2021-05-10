@@ -1,7 +1,6 @@
 ### João Victor Carvalho - [Data Science enthusiast] 👋
-#### I am a student at computer engeneering
-
-- I'm studying the content on Data Science but especially AI. My motivation is to help peoples with this knowledge and build something with this.
+#### I am a computer engineering student and data science enthusiast
+My motivation is to help peoples with this knowledge and build something with this.
 
 ### Connect with me:
 
