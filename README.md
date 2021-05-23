@@ -10,6 +10,7 @@ My motivation is to help peoples with this knowledge and build something with th
 
 [<img align="left" alt="joaocarvoli | Kaggle" width="22px" src="https://github.com/joaocarvoli/joaocarvoli/blob/main/logo/189_Kaggle_logo_logos-512.png" />][kaggle]
 
+[<img align="left" alt="joaocarvoli | Data-Camp" width="22px" src="https://github.com/joaocarvoli/joaocarvoli/blob/main/logo/datacamp-sq.png" />][datacamp]
 
 
 <br />
@@ -18,3 +19,4 @@ My motivation is to help peoples with this knowledge and build something with th
 [instagram]: https://www.instagram.com/joaocarvoli/
 [linkedin]: https://www.linkedin.com/in/joaocarvoli/
 [kaggle]: https://www.kaggle.com/jvcarvoli/
+[kaggle]: https://www.datacamp.com/profile/joaocarvoli/
