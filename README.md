@@ -12,6 +12,8 @@ My motivation is to help peoples with this knowledge and build something with th
 <br />
 <br />
 
+![Joao's github stats](https://github-readme-stats.vercel.app/api?username=joaocarvoli)
+
 [instagram]: https://www.instagram.com/joaocarvoli/
 [linkedin]: https://www.linkedin.com/in/joaocarvoli/
 [kaggle]: https://www.kaggle.com/jvcarvoli/
