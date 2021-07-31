@@ -1,5 +1,5 @@
-### João Victor Carvalho - [Data Science enthusiast] 👋
-#### I am a computer engineering student, developer Full Stack scholarship holder and data science enthusiast
+### Hi, I'm João Victor! 👋
+#### I am a computer engineering student, developer Full Stack scholarship holder and Data Science enthusiast.
 My motivation is to help peoples with this knowledge and build something with this.
 
 ### Connect with me:
