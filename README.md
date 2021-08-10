@@ -9,6 +9,8 @@ My motivation is to help peoples with this knowledge and build something with th
 
 [<img align="left"  width="22px" src="https://github.com/joaocarvoli/joaocarvoli/blob/main/logo/174857.png" />][linkedin]
 [<img align="left" alt="joaocarvoli | Instagram" width="22px" src="https://github.com/joaocarvoli/joaocarvoli/blob/main/logo/580b57fcd9996e24bc43c521.png" />][instagram]
+[<img align="left" alt="joaocarvoli | GitLab" width="70px" src="https://about.gitlab.com/images/press/logo/png/gitlab-logo-1-color-black-rgb.png" />][gitlab]
+
 <br />
 <br />
 
@@ -24,3 +26,4 @@ My motivation is to help peoples with this knowledge and build something with th
 
 [instagram]: https://www.instagram.com/joaocarvoli/
 [linkedin]: https://www.linkedin.com/in/joaocarvoli/
+[gitlab]: https://gitlab.com/joaocarvoli/
