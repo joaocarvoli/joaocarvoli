@@ -16,10 +16,10 @@ My motivation is to help peoples with this knowledge and build something with th
 ### `Technologies`
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="c++" height="30" width="40" src="https://visualpharm.com/assets/4/C++-595b40b65ba036ed117d3edb.svg">
   <img align="center" alt="c" height="30" width="40" src="https://visualpharm.com/assets/698/C%20Programming-595b40b65ba036ed117d3edc.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
 [instagram]: https://www.instagram.com/joaocarvoli/
