@@ -8,7 +8,7 @@ My motivation is to help peoples with this knowledge and build something with th
 ### `Connect with me`
 
 [<img align="left"  width="22px" src="https://github.com/joaocarvoli/joaocarvoli/blob/main/logo/174857.png" />][linkedin]
-[<img align="left" alt="joaocarvoli | Instagram" width="22px" src="https://github.com/joaocarvoli/joaocarvoli/blob/main/logo/580b57fcd9996e24bc43c521.png" />][instagram]
+[<img align="left" alt="joaocarvoli | Kaggle" width="24px" src="https://github.com/joaocarvoli/joaocarvoli/blob/main/logo/189_Kaggle_logo_logos-512.png" />][kaggle]
 [<img align="left" alt="joaocarvoli | GitLab" width="25px" src="https://cdn.freebiesupply.com/logos/large/2x/gitlab-logo-png-transparent.png" />][gitlab]
 
 <br />
@@ -24,6 +24,6 @@ My motivation is to help peoples with this knowledge and build something with th
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
-[instagram]: https://www.instagram.com/joaocarvoli/
+[kaggle]: https://www.kaggle.com/jvcarvoli
 [linkedin]: https://www.linkedin.com/in/joaocarvoli/
 [gitlab]: https://gitlab.com/joaocarvoli/
