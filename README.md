@@ -18,9 +18,10 @@ My motivation is to help peoples with this knowledge and build something with th
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="c++" height="30" width="40" src="https://visualpharm.com/assets/4/C++-595b40b65ba036ed117d3edb.svg">
-  <img align="center" alt="c" height="30" width="40" src="https://visualpharm.com/assets/698/C%20Programming-595b40b65ba036ed117d3edc.svg">
-  <img align="center" alt="Java" height="36" width="46" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/java/java-original.svg">
+  <img align="center" alt="NodeJs" height="35" width="31" src="https://suporte.alclaudius.com.br/static/img/logo/javascript-logo.png">
+   <img align="center" alt="Java" height="36" width="46" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/java/java-original.svg">
+  <img align="center" alt="c++" height="35" width="31" src="https://visualpharm.com/assets/4/C++-595b40b65ba036ed117d3edb.svg">
+  <img align="center" alt="c" height="35" width="31" src="https://visualpharm.com/assets/698/C%20Programming-595b40b65ba036ed117d3edc.svg">
   <img align="center" alt="Docker" height="46" width="56" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/docker/docker-plain.svg">
 </div>
 
