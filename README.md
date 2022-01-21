@@ -1,6 +1,6 @@
-### Hi, I'm João Victor! 👋
-#### I am a computer engineering student, developer Full Stack scholarship holder and Data Science enthusiast.
-My motivation is to help peoples with this knowledge and build something with this.
+# Hi, I'm João Victor! 👋
+#### I am a Computer Engineering Student, FullStack Developer Fellow and Data Science enthusiast.
+*My motivation is to help peoples with this knowledge and build something with this!*
 
 ![Joao's github stats](https://github-readme-stats.vercel.app/api?username=joaocarvoli)
 
