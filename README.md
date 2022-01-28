@@ -1,5 +1,5 @@
 # Hi, I'm João Victor! 👋
-#### I am a Computer Engineering Student, FullStack Developer Fellow.
+#### I am a Computer Engineering Student and a FullStack Developer Fellow.
 *My motivation is to help peoples with this knowledge and build something with this!*
 
 ![Joao's github stats](https://github-readme-stats.vercel.app/api?username=joaocarvoli)
