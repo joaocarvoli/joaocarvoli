@@ -2,8 +2,7 @@
 #### I am a Computer Engineering Student and a FullStack Developer Fellow.
 *My motivation is to help peoples with this knowledge and build something with this!*
 
-![Joao's github stats](https://github-readme-stats.vercel.app/api?username=joaocarvoli)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaocarvoli&hide=TeX&layout=compact)
 
 ### `Connect with me`
 
