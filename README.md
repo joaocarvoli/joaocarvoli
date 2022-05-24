@@ -1,10 +1,10 @@
 Hi 👋 My name is João Victor
 ============================
 
-FullStack Developer and Data Science Enthusiast
+FullStack Developer
 -----------------------------------------------
 
-I'm attending Computer Engineering at UFC for the 5th semester
+I'm attending Computer Engineering at UFC
 
 * 🌍  I'm based in Fortaleza - CE
 
