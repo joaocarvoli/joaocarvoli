@@ -6,7 +6,7 @@ FullStack Developer
 
 I'm attending Computer Engineering at UFC
 
-* 🌍  I'm based in Fortaleza - CE
+* 🌍  I'm based in Fortaleza - CE :brazil:
 
 ### Skills
 
