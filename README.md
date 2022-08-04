@@ -26,4 +26,7 @@ I'm attending Computer Engineering at UFC
 
 ### Badges
 
-<a href="http://www.github.com/joaocarvoli"><img src="https://github-readme-stats.vercel.app/api?username=joaocarvoli&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="joaocarvoli's GitHub stats" /></a>
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=joaocarvoli&hide_border=true&show_icons=true" alt="joaocarvoli's GitHub stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaocarvoli&exclude_repo=machineLearning,ML-problems,dataCamp-projects,WeekData_immersion-alura,IntroDataScience-geam&layout=compact&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+
