@@ -23,5 +23,5 @@
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
 </p>
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=joaocarvoli&hide_border=true&show_icons=true" alt="joaocarvoli's GitHub stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaocarvoli&exclude_repo=machineLearning,ML-problems,dataCamp-projects,WeekData_immersion-alura,IntroDataScience-geam&layout=compact&hide_border=true" /></a> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=joaocarvoli&hide_border=true&show_icons=true" alt="joaocarvoli's GitHub stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaocarvoli&exclude_repo=machineLearning,ML-problems,xai,dataCamp-projects,WeekData_immersion-alura&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
