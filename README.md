@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm João Victor</h1>
-<h3 align="center">I am an Android Developer/AI Researcher, passionate about software engineering, and a Computer Engineering Student</h3>
+<h3 align="center">I am an Android Developer/AI Researcher, passionate about software engineering, and a Software Engineering Student</h3>
 
 - 🌱 I’m currently learning **Android dev for smartwatches and Kotlin**
 
