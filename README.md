@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm João Victor</h1>
 <h3 align="center">I am an Software Developer, passionate about software engineering, and a Software Engineering Student</h3>
 
-- 🌱 I’m currently learning **Android dev for smartwatches and Kotlin**
+- 🌱 I’m currently learning **Scala, Reactjs and developing some ideas with Flutter**
 
-- 💬 Ask me about **Programming Logic, Machine Learning and Software Development**
+- 💬 Ask me about **Programming Logic, Machine Learning, and Software Development**
 
 
 <p align="left">
