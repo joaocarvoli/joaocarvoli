@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm João Victor</h1>
 <h3 align="center">I am a Software Developer, passionate about software engineering, and a Software Engineering Student</h3>
 
-- 🌱 I’m currently learning and working with **Scala, Java, Reactjs**
+- 🌱 I’m currently learning and working with **Scala, Kotlin, Java, Reactjs**
 
 [comment]: <> (- :bulb: Developing some ideas with Flutter)
 
