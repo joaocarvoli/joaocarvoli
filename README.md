@@ -6,7 +6,7 @@ kind: Human
 metadata:
   name: João Victor
 spec:
-  title: Software Developer
+  title: Software Engineer
   description: Passionate about software engineering, AI, and software development
   learning: 
     - Python
@@ -14,7 +14,7 @@ spec:
   interests:
     - Programming Logic
     - Machine Learning
-    - Software Development
+    - Software Engineering
   tools:
     - languages: Python 🐍, Kotlin 🔷 and Java ☕
     - frameworks: Android 🤖, Spring 🌱
